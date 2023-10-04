@@ -1,2 +1,2 @@
 # TrabalhoMachineLearning
-## Vinícius de Aguilar Amorim - 2124290043
+* Vinícius de Aguilar Amorim - 2124290043
